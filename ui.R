@@ -35,12 +35,12 @@ fluidPage(
                    c(Comma=',',
                      Semicolon=';',
                      Tab='\t'),
-                   '\t'),
+                   ','),
       radioButtons('quote', 'Quote',
                    c(None='',
                      'Double Quote'='"',
                      'Single Quote'="'"),
-                   '"')
+                   '')
     ),
     
     # Show a tabset that includes a scatter plot, summary, and table views
