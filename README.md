@@ -1,5 +1,7 @@
 # Trading Signal Evaluation
 
-### Public App Hostong
+### Public App Hosting
 
-https://kbakh.shinyapps.io/AnalyzingPredictions3/
+A version is available at [shinyapps.io](https://kbakh.shinyapps.io/AnalyzingPredictions3/).
+
+
